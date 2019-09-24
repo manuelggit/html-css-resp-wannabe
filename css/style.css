@@ -83,5 +83,9 @@ img{
     width: 100%;
   }
 
+  #steps .row > .left, #steps .row > .central, #steps .row > .right {
+    width: 100%;
+  }
+
 
 }
