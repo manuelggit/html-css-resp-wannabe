@@ -70,6 +70,10 @@ img{
 
 @media screen and (max-width: 420px) {
 
+  body {
+    font-size: 1.7em;
+  }
+
   h1 {
     text-align: center;
     width: 100%;
@@ -88,19 +92,25 @@ img{
   }
 
   #lezioni .row img {
-    width: 40%;
+    width: 50%;
     height: auto;
   }
 
   #steps .row img {
-    width: 25%;
+    width: 35%;
     height: auto;
   }
 
   #why .row img {
-    width: 20%;
+    width: 27%;
     height: auto;
   }
+
+  #steps .central, #steps .right {
+    margin-top: 10%;
+  }
+
+
 
 
 
