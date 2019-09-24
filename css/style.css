@@ -72,6 +72,9 @@ img{
 
   body {
     font-size: 1.7em;
+    width: 90%;
+    margin: auto;
+
   }
 
   h1 {
@@ -109,10 +112,6 @@ img{
   #steps .central, #steps .right {
     margin-top: 10%;
   }
-
-
-
-
 
 
 }
