@@ -87,5 +87,22 @@ img{
     width: 100%;
   }
 
+  #lezioni .row img {
+    width: 40%;
+    height: auto;
+  }
+
+  #steps .row img {
+    width: 25%;
+    height: auto;
+  }
+
+  #why .row img {
+    width: 20%;
+    height: auto;
+  }
+
+
+
 
 }
